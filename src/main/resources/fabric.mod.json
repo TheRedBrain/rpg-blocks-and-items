@@ -16,10 +16,10 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.example.ExampleMod"
+			"com.github.theredbrain.variousitems.VariousItems"
 		],
 		"client": [
-			"com.example.ExampleModClient"
+			"com.github.theredbrain.variousitems.VariousItemsClient"
 		]
 	},
 	"mixins": [
